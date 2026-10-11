@@ -1,0 +1,501 @@
+report_id,reported_at,category,summary,phone_id,website_domain,email_id,synthetic_group
+R0362,2026-12-28T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0242,background-0242.example,contact-0242@example.invalid,BACKGROUND
+R0074,2026-03-15T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-013-SHARED,site-013-02.example,contact-013@example.invalid,CLUSTER-013
+R0375,2027-01-10T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0255,background-0255.example,contact-0255@example.invalid,BACKGROUND
+R0156,2026-06-05T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0036,background-0036.example,contact-0036@example.invalid,BACKGROUND
+R0105,2026-04-15T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-018-SHARED,site-018.example,contact-018@example.invalid,CLUSTER-018
+R0395,2027-01-30T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0275,background-0275.example,contact-0275@example.invalid,BACKGROUND
+R0378,2027-01-13T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0258,background-0258.example,contact-0258@example.invalid,BACKGROUND
+R0125,2026-05-05T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0005,background-0005.example,contact-0005@example.invalid,BACKGROUND
+R0069,2026-03-10T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-012-SHARED,site-012.example,contact-012@example.invalid,CLUSTER-012
+R0451,2027-03-27T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0331,background-0331.example,contact-0331@example.invalid,BACKGROUND
+R0010,2026-01-10T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-002-04,site-002.example,contact-002@example.invalid,CLUSTER-002
+R0195,2026-07-14T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0075,background-0075.example,contact-0075@example.invalid,BACKGROUND
+R0407,2027-02-11T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0287,background-0287.example,contact-0287@example.invalid,BACKGROUND
+R0085,2026-03-26T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-015-SHARED,site-015-01.example,contact-015-01@example.invalid,CLUSTER-015
+R0372,2027-01-07T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0252,background-0252.example,contact-0252@example.invalid,BACKGROUND
+R0389,2027-01-24T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0269,background-0269.example,contact-0269@example.invalid,BACKGROUND
+R0496,2027-05-11T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0376,background-0376.example,contact-0376@example.invalid,BACKGROUND
+R0031,2026-01-31T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-006-SHARED,site-006-01.example,contact-006-01@example.invalid,CLUSTER-006
+R0317,2026-11-13T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0197,background-0197.example,contact-0197@example.invalid,BACKGROUND
+R0409,2027-02-13T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0289,background-0289.example,contact-0289@example.invalid,BACKGROUND
+R0491,2027-05-06T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0371,background-0371.example,contact-0371@example.invalid,BACKGROUND
+R0492,2027-05-07T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0372,background-0372.example,contact-0372@example.invalid,BACKGROUND
+R0281,2026-10-08T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0161,background-0161.example,contact-0161@example.invalid,BACKGROUND
+R0357,2026-12-23T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0237,background-0237.example,contact-0237@example.invalid,BACKGROUND
+R0077,2026-03-18T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-013-05,site-013.example,contact-013-05@example.invalid,CLUSTER-013
+R0462,2027-04-07T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0342,background-0342.example,contact-0342@example.invalid,BACKGROUND
+R0498,2027-05-13T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0378,background-0378.example,contact-0378@example.invalid,BACKGROUND
+R0212,2026-07-31T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0092,background-0092.example,contact-0092@example.invalid,BACKGROUND
+R0102,2026-04-12T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-017-06,site-017.example,contact-017-06@example.invalid,CLUSTER-017
+R0335,2026-12-01T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0215,background-0215.example,contact-0215@example.invalid,BACKGROUND
+R0476,2027-04-21T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0356,background-0356.example,contact-0356@example.invalid,BACKGROUND
+R0337,2026-12-03T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0217,background-0217.example,contact-0217@example.invalid,BACKGROUND
+R0441,2027-03-17T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0321,background-0321.example,contact-0321@example.invalid,BACKGROUND
+R0174,2026-06-23T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0054,background-0054.example,contact-0054@example.invalid,BACKGROUND
+R0003,2026-01-03T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-001-SHARED,site-001.example,contact-001@example.invalid,CLUSTER-001
+R0334,2026-11-30T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0214,background-0214.example,contact-0214@example.invalid,BACKGROUND
+R0410,2027-02-14T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0290,background-0290.example,contact-0290@example.invalid,BACKGROUND
+R0071,2026-03-12T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-012-05,site-012.example,contact-012-05@example.invalid,CLUSTER-012
+R0210,2026-07-29T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0090,background-0090.example,contact-0090@example.invalid,BACKGROUND
+R0064,2026-03-05T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-011-04,site-011.example,contact-011@example.invalid,CLUSTER-011
+R0385,2027-01-20T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0265,background-0265.example,contact-0265@example.invalid,BACKGROUND
+R0094,2026-04-04T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-016-04,site-016.example,contact-016@example.invalid,CLUSTER-016
+R0486,2027-05-01T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0366,background-0366.example,contact-0366@example.invalid,BACKGROUND
+R0186,2026-07-05T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0066,background-0066.example,contact-0066@example.invalid,BACKGROUND
+R0034,2026-02-03T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-006-04,site-006.example,contact-006@example.invalid,CLUSTER-006
+R0078,2026-03-19T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-013-06,site-013.example,contact-013-06@example.invalid,CLUSTER-013
+R0001,2026-01-01T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-001-SHARED,site-001-01.example,contact-001-01@example.invalid,CLUSTER-001
+R0012,2026-01-12T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-002-06,site-002.example,contact-002-06@example.invalid,CLUSTER-002
+R0416,2027-02-20T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0296,background-0296.example,contact-0296@example.invalid,BACKGROUND
+R0023,2026-01-23T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-004-05,site-004.example,contact-004-05@example.invalid,CLUSTER-004
+R0073,2026-03-14T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-013-SHARED,site-013-01.example,contact-013-01@example.invalid,CLUSTER-013
+R0183,2026-07-02T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0063,background-0063.example,contact-0063@example.invalid,BACKGROUND
+R0132,2026-05-12T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0012,background-0012.example,contact-0012@example.invalid,BACKGROUND
+R0411,2027-02-15T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0291,background-0291.example,contact-0291@example.invalid,BACKGROUND
+R0194,2026-07-13T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0074,background-0074.example,contact-0074@example.invalid,BACKGROUND
+R0056,2026-02-25T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-010-SHARED,site-010-02.example,contact-010@example.invalid,CLUSTER-010
+R0149,2026-05-29T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0029,background-0029.example,contact-0029@example.invalid,BACKGROUND
+R0019,2026-01-19T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-004-SHARED,site-004-01.example,contact-004-01@example.invalid,CLUSTER-004
+R0205,2026-07-24T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0085,background-0085.example,contact-0085@example.invalid,BACKGROUND
+R0079,2026-03-20T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-014-SHARED,site-014-01.example,contact-014-01@example.invalid,CLUSTER-014
+R0495,2027-05-10T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0375,background-0375.example,contact-0375@example.invalid,BACKGROUND
+R0263,2026-09-20T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0143,background-0143.example,contact-0143@example.invalid,BACKGROUND
+R0324,2026-11-20T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0204,background-0204.example,contact-0204@example.invalid,BACKGROUND
+R0484,2027-04-29T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0364,background-0364.example,contact-0364@example.invalid,BACKGROUND
+R0080,2026-03-21T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-014-SHARED,site-014-02.example,contact-014@example.invalid,CLUSTER-014
+R0040,2026-02-09T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-007-04,site-007.example,contact-007@example.invalid,CLUSTER-007
+R0452,2027-03-28T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0332,background-0332.example,contact-0332@example.invalid,BACKGROUND
+R0047,2026-02-16T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-008-05,site-008.example,contact-008-05@example.invalid,CLUSTER-008
+R0239,2026-08-27T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0119,background-0119.example,contact-0119@example.invalid,BACKGROUND
+R0392,2027-01-27T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0272,background-0272.example,contact-0272@example.invalid,BACKGROUND
+R0353,2026-12-19T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0233,background-0233.example,contact-0233@example.invalid,BACKGROUND
+R0342,2026-12-08T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0222,background-0222.example,contact-0222@example.invalid,BACKGROUND
+R0278,2026-10-05T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0158,background-0158.example,contact-0158@example.invalid,BACKGROUND
+R0291,2026-10-18T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0171,background-0171.example,contact-0171@example.invalid,BACKGROUND
+R0318,2026-11-14T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0198,background-0198.example,contact-0198@example.invalid,BACKGROUND
+R0305,2026-11-01T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0185,background-0185.example,contact-0185@example.invalid,BACKGROUND
+R0269,2026-09-26T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0149,background-0149.example,contact-0149@example.invalid,BACKGROUND
+R0070,2026-03-11T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-012-04,site-012.example,contact-012@example.invalid,CLUSTER-012
+R0456,2027-04-01T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0336,background-0336.example,contact-0336@example.invalid,BACKGROUND
+R0466,2027-04-11T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0346,background-0346.example,contact-0346@example.invalid,BACKGROUND
+R0155,2026-06-04T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0035,background-0035.example,contact-0035@example.invalid,BACKGROUND
+R0083,2026-03-24T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-014-05,site-014.example,contact-014-05@example.invalid,CLUSTER-014
+R0478,2027-04-23T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0358,background-0358.example,contact-0358@example.invalid,BACKGROUND
+R0173,2026-06-22T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0053,background-0053.example,contact-0053@example.invalid,BACKGROUND
+R0322,2026-11-18T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0202,background-0202.example,contact-0202@example.invalid,BACKGROUND
+R0091,2026-04-01T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-016-SHARED,site-016-01.example,contact-016-01@example.invalid,CLUSTER-016
+R0181,2026-06-30T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0061,background-0061.example,contact-0061@example.invalid,BACKGROUND
+R0415,2027-02-19T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0295,background-0295.example,contact-0295@example.invalid,BACKGROUND
+R0313,2026-11-09T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0193,background-0193.example,contact-0193@example.invalid,BACKGROUND
+R0279,2026-10-06T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0159,background-0159.example,contact-0159@example.invalid,BACKGROUND
+R0382,2027-01-17T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0262,background-0262.example,contact-0262@example.invalid,BACKGROUND
+R0473,2027-04-18T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0353,background-0353.example,contact-0353@example.invalid,BACKGROUND
+R0363,2026-12-29T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0243,background-0243.example,contact-0243@example.invalid,BACKGROUND
+R0325,2026-11-21T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0205,background-0205.example,contact-0205@example.invalid,BACKGROUND
+R0432,2027-03-08T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0312,background-0312.example,contact-0312@example.invalid,BACKGROUND
+R0348,2026-12-14T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0228,background-0228.example,contact-0228@example.invalid,BACKGROUND
+R0087,2026-03-28T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-015-SHARED,site-015.example,contact-015@example.invalid,CLUSTER-015
+R0076,2026-03-17T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-013-04,site-013.example,contact-013@example.invalid,CLUSTER-013
+R0439,2027-03-15T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0319,background-0319.example,contact-0319@example.invalid,BACKGROUND
+R0016,2026-01-16T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-003-04,site-003.example,contact-003@example.invalid,CLUSTER-003
+R0250,2026-09-07T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0130,background-0130.example,contact-0130@example.invalid,BACKGROUND
+R0434,2027-03-10T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0314,background-0314.example,contact-0314@example.invalid,BACKGROUND
+R0020,2026-01-20T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-004-SHARED,site-004-02.example,contact-004@example.invalid,CLUSTER-004
+R0323,2026-11-19T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0203,background-0203.example,contact-0203@example.invalid,BACKGROUND
+R0333,2026-11-29T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0213,background-0213.example,contact-0213@example.invalid,BACKGROUND
+R0057,2026-02-26T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-010-SHARED,site-010.example,contact-010@example.invalid,CLUSTER-010
+R0302,2026-10-29T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0182,background-0182.example,contact-0182@example.invalid,BACKGROUND
+R0230,2026-08-18T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0110,background-0110.example,contact-0110@example.invalid,BACKGROUND
+R0332,2026-11-28T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0212,background-0212.example,contact-0212@example.invalid,BACKGROUND
+R0133,2026-05-13T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0013,background-0013.example,contact-0013@example.invalid,BACKGROUND
+R0138,2026-05-18T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0018,background-0018.example,contact-0018@example.invalid,BACKGROUND
+R0424,2027-02-28T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0304,background-0304.example,contact-0304@example.invalid,BACKGROUND
+R0336,2026-12-02T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0216,background-0216.example,contact-0216@example.invalid,BACKGROUND
+R0026,2026-01-26T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-005-SHARED,site-005-02.example,contact-005@example.invalid,CLUSTER-005
+R0465,2027-04-10T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0345,background-0345.example,contact-0345@example.invalid,BACKGROUND
+R0282,2026-10-09T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0162,background-0162.example,contact-0162@example.invalid,BACKGROUND
+R0248,2026-09-05T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0128,background-0128.example,contact-0128@example.invalid,BACKGROUND
+R0238,2026-08-26T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0118,background-0118.example,contact-0118@example.invalid,BACKGROUND
+R0118,2026-04-28T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-020-04,site-020.example,contact-020@example.invalid,CLUSTER-020
+R0043,2026-02-12T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-008-SHARED,site-008-01.example,contact-008-01@example.invalid,CLUSTER-008
+R0221,2026-08-09T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0101,background-0101.example,contact-0101@example.invalid,BACKGROUND
+R0177,2026-06-26T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0057,background-0057.example,contact-0057@example.invalid,BACKGROUND
+R0321,2026-11-17T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0201,background-0201.example,contact-0201@example.invalid,BACKGROUND
+R0154,2026-06-03T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0034,background-0034.example,contact-0034@example.invalid,BACKGROUND
+R0232,2026-08-20T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0112,background-0112.example,contact-0112@example.invalid,BACKGROUND
+R0228,2026-08-16T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0108,background-0108.example,contact-0108@example.invalid,BACKGROUND
+R0418,2027-02-22T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0298,background-0298.example,contact-0298@example.invalid,BACKGROUND
+R0204,2026-07-23T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0084,background-0084.example,contact-0084@example.invalid,BACKGROUND
+R0127,2026-05-07T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0007,background-0007.example,contact-0007@example.invalid,BACKGROUND
+R0330,2026-11-26T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0210,background-0210.example,contact-0210@example.invalid,BACKGROUND
+R0032,2026-02-01T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-006-SHARED,site-006-02.example,contact-006@example.invalid,CLUSTER-006
+R0114,2026-04-24T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-019-06,site-019.example,contact-019-06@example.invalid,CLUSTER-019
+R0471,2027-04-16T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0351,background-0351.example,contact-0351@example.invalid,BACKGROUND
+R0272,2026-09-29T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0152,background-0152.example,contact-0152@example.invalid,BACKGROUND
+R0141,2026-05-21T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0021,background-0021.example,contact-0021@example.invalid,BACKGROUND
+R0058,2026-02-27T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-010-04,site-010.example,contact-010@example.invalid,CLUSTER-010
+R0193,2026-07-12T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0073,background-0073.example,contact-0073@example.invalid,BACKGROUND
+R0025,2026-01-25T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-005-SHARED,site-005-01.example,contact-005-01@example.invalid,CLUSTER-005
+R0018,2026-01-18T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-003-06,site-003.example,contact-003-06@example.invalid,CLUSTER-003
+R0266,2026-09-23T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0146,background-0146.example,contact-0146@example.invalid,BACKGROUND
+R0067,2026-03-08T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-012-SHARED,site-012-01.example,contact-012-01@example.invalid,CLUSTER-012
+R0209,2026-07-28T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0089,background-0089.example,contact-0089@example.invalid,BACKGROUND
+R0480,2027-04-25T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0360,background-0360.example,contact-0360@example.invalid,BACKGROUND
+R0095,2026-04-05T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-016-05,site-016.example,contact-016-05@example.invalid,CLUSTER-016
+R0254,2026-09-11T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0134,background-0134.example,contact-0134@example.invalid,BACKGROUND
+R0267,2026-09-24T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0147,background-0147.example,contact-0147@example.invalid,BACKGROUND
+R0024,2026-01-24T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-004-06,site-004.example,contact-004-06@example.invalid,CLUSTER-004
+R0223,2026-08-11T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0103,background-0103.example,contact-0103@example.invalid,BACKGROUND
+R0262,2026-09-19T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0142,background-0142.example,contact-0142@example.invalid,BACKGROUND
+R0427,2027-03-03T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0307,background-0307.example,contact-0307@example.invalid,BACKGROUND
+R0006,2026-01-06T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-001-06,site-001.example,contact-001-06@example.invalid,CLUSTER-001
+R0117,2026-04-27T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-020-SHARED,site-020.example,contact-020@example.invalid,CLUSTER-020
+R0046,2026-02-15T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-008-04,site-008.example,contact-008@example.invalid,CLUSTER-008
+R0017,2026-01-17T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-003-05,site-003.example,contact-003-05@example.invalid,CLUSTER-003
+R0463,2027-04-08T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0343,background-0343.example,contact-0343@example.invalid,BACKGROUND
+R0358,2026-12-24T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0238,background-0238.example,contact-0238@example.invalid,BACKGROUND
+R0004,2026-01-04T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-001-04,site-001.example,contact-001@example.invalid,CLUSTER-001
+R0219,2026-08-07T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0099,background-0099.example,contact-0099@example.invalid,BACKGROUND
+R0406,2027-02-10T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0286,background-0286.example,contact-0286@example.invalid,BACKGROUND
+R0061,2026-03-02T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-011-SHARED,site-011-01.example,contact-011-01@example.invalid,CLUSTER-011
+R0111,2026-04-21T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-019-SHARED,site-019.example,contact-019@example.invalid,CLUSTER-019
+R0319,2026-11-15T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0199,background-0199.example,contact-0199@example.invalid,BACKGROUND
+R0429,2027-03-05T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0309,background-0309.example,contact-0309@example.invalid,BACKGROUND
+R0030,2026-01-30T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-005-06,site-005.example,contact-005-06@example.invalid,CLUSTER-005
+R0438,2027-03-14T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0318,background-0318.example,contact-0318@example.invalid,BACKGROUND
+R0472,2027-04-17T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0352,background-0352.example,contact-0352@example.invalid,BACKGROUND
+R0027,2026-01-27T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-005-SHARED,site-005.example,contact-005@example.invalid,CLUSTER-005
+R0008,2026-01-08T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-002-SHARED,site-002-02.example,contact-002@example.invalid,CLUSTER-002
+R0454,2027-03-30T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0334,background-0334.example,contact-0334@example.invalid,BACKGROUND
+R0109,2026-04-19T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-019-SHARED,site-019-01.example,contact-019-01@example.invalid,CLUSTER-019
+R0038,2026-02-07T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-007-SHARED,site-007-02.example,contact-007@example.invalid,CLUSTER-007
+R0158,2026-06-07T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0038,background-0038.example,contact-0038@example.invalid,BACKGROUND
+R0490,2027-05-05T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0370,background-0370.example,contact-0370@example.invalid,BACKGROUND
+R0119,2026-04-29T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-020-05,site-020.example,contact-020-05@example.invalid,CLUSTER-020
+R0115,2026-04-25T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-020-SHARED,site-020-01.example,contact-020-01@example.invalid,CLUSTER-020
+R0176,2026-06-25T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0056,background-0056.example,contact-0056@example.invalid,BACKGROUND
+R0374,2027-01-09T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0254,background-0254.example,contact-0254@example.invalid,BACKGROUND
+R0182,2026-07-01T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0062,background-0062.example,contact-0062@example.invalid,BACKGROUND
+R0145,2026-05-25T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0025,background-0025.example,contact-0025@example.invalid,BACKGROUND
+R0370,2027-01-05T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0250,background-0250.example,contact-0250@example.invalid,BACKGROUND
+R0391,2027-01-26T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0271,background-0271.example,contact-0271@example.invalid,BACKGROUND
+R0196,2026-07-15T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0076,background-0076.example,contact-0076@example.invalid,BACKGROUND
+R0405,2027-02-09T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0285,background-0285.example,contact-0285@example.invalid,BACKGROUND
+R0276,2026-10-03T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0156,background-0156.example,contact-0156@example.invalid,BACKGROUND
+R0455,2027-03-31T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0335,background-0335.example,contact-0335@example.invalid,BACKGROUND
+R0142,2026-05-22T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0022,background-0022.example,contact-0022@example.invalid,BACKGROUND
+R0366,2027-01-01T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0246,background-0246.example,contact-0246@example.invalid,BACKGROUND
+R0068,2026-03-09T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-012-SHARED,site-012-02.example,contact-012@example.invalid,CLUSTER-012
+R0211,2026-07-30T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0091,background-0091.example,contact-0091@example.invalid,BACKGROUND
+R0169,2026-06-18T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0049,background-0049.example,contact-0049@example.invalid,BACKGROUND
+R0494,2027-05-09T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0374,background-0374.example,contact-0374@example.invalid,BACKGROUND
+R0376,2027-01-11T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0256,background-0256.example,contact-0256@example.invalid,BACKGROUND
+R0401,2027-02-05T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0281,background-0281.example,contact-0281@example.invalid,BACKGROUND
+R0273,2026-09-30T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0153,background-0153.example,contact-0153@example.invalid,BACKGROUND
+R0110,2026-04-20T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-019-SHARED,site-019-02.example,contact-019@example.invalid,CLUSTER-019
+R0249,2026-09-06T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0129,background-0129.example,contact-0129@example.invalid,BACKGROUND
+R0146,2026-05-26T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0026,background-0026.example,contact-0026@example.invalid,BACKGROUND
+R0093,2026-04-03T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-016-SHARED,site-016.example,contact-016@example.invalid,CLUSTER-016
+R0153,2026-06-02T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0033,background-0033.example,contact-0033@example.invalid,BACKGROUND
+R0368,2027-01-03T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0248,background-0248.example,contact-0248@example.invalid,BACKGROUND
+R0468,2027-04-13T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0348,background-0348.example,contact-0348@example.invalid,BACKGROUND
+R0084,2026-03-25T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-014-06,site-014.example,contact-014-06@example.invalid,CLUSTER-014
+R0246,2026-09-03T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0126,background-0126.example,contact-0126@example.invalid,BACKGROUND
+R0166,2026-06-15T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0046,background-0046.example,contact-0046@example.invalid,BACKGROUND
+R0164,2026-06-13T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0044,background-0044.example,contact-0044@example.invalid,BACKGROUND
+R0200,2026-07-19T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0080,background-0080.example,contact-0080@example.invalid,BACKGROUND
+R0229,2026-08-17T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0109,background-0109.example,contact-0109@example.invalid,BACKGROUND
+R0075,2026-03-16T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-013-SHARED,site-013.example,contact-013@example.invalid,CLUSTER-013
+R0479,2027-04-24T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0359,background-0359.example,contact-0359@example.invalid,BACKGROUND
+R0359,2026-12-25T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0239,background-0239.example,contact-0239@example.invalid,BACKGROUND
+R0251,2026-09-08T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0131,background-0131.example,contact-0131@example.invalid,BACKGROUND
+R0120,2026-04-30T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-020-06,site-020.example,contact-020-06@example.invalid,CLUSTER-020
+R0311,2026-11-07T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0191,background-0191.example,contact-0191@example.invalid,BACKGROUND
+R0300,2026-10-27T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0180,background-0180.example,contact-0180@example.invalid,BACKGROUND
+R0256,2026-09-13T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0136,background-0136.example,contact-0136@example.invalid,BACKGROUND
+R0355,2026-12-21T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0235,background-0235.example,contact-0235@example.invalid,BACKGROUND
+R0400,2027-02-04T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0280,background-0280.example,contact-0280@example.invalid,BACKGROUND
+R0226,2026-08-14T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0106,background-0106.example,contact-0106@example.invalid,BACKGROUND
+R0354,2026-12-20T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0234,background-0234.example,contact-0234@example.invalid,BACKGROUND
+R0235,2026-08-23T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0115,background-0115.example,contact-0115@example.invalid,BACKGROUND
+R0383,2027-01-18T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0263,background-0263.example,contact-0263@example.invalid,BACKGROUND
+R0275,2026-10-02T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0155,background-0155.example,contact-0155@example.invalid,BACKGROUND
+R0037,2026-02-06T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-007-SHARED,site-007-01.example,contact-007-01@example.invalid,CLUSTER-007
+R0197,2026-07-16T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0077,background-0077.example,contact-0077@example.invalid,BACKGROUND
+R0140,2026-05-20T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0020,background-0020.example,contact-0020@example.invalid,BACKGROUND
+R0365,2026-12-31T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0245,background-0245.example,contact-0245@example.invalid,BACKGROUND
+R0245,2026-09-02T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0125,background-0125.example,contact-0125@example.invalid,BACKGROUND
+R0440,2027-03-16T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0320,background-0320.example,contact-0320@example.invalid,BACKGROUND
+R0287,2026-10-14T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0167,background-0167.example,contact-0167@example.invalid,BACKGROUND
+R0060,2026-03-01T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-010-06,site-010.example,contact-010-06@example.invalid,CLUSTER-010
+R0112,2026-04-22T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-019-04,site-019.example,contact-019@example.invalid,CLUSTER-019
+R0090,2026-03-31T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-015-06,site-015.example,contact-015-06@example.invalid,CLUSTER-015
+R0437,2027-03-13T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0317,background-0317.example,contact-0317@example.invalid,BACKGROUND
+R0007,2026-01-07T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-002-SHARED,site-002-01.example,contact-002-01@example.invalid,CLUSTER-002
+R0361,2026-12-27T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0241,background-0241.example,contact-0241@example.invalid,BACKGROUND
+R0347,2026-12-13T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0227,background-0227.example,contact-0227@example.invalid,BACKGROUND
+R0339,2026-12-05T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0219,background-0219.example,contact-0219@example.invalid,BACKGROUND
+R0159,2026-06-08T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0039,background-0039.example,contact-0039@example.invalid,BACKGROUND
+R0151,2026-05-31T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0031,background-0031.example,contact-0031@example.invalid,BACKGROUND
+R0178,2026-06-27T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0058,background-0058.example,contact-0058@example.invalid,BACKGROUND
+R0394,2027-01-29T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0274,background-0274.example,contact-0274@example.invalid,BACKGROUND
+R0185,2026-07-04T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0065,background-0065.example,contact-0065@example.invalid,BACKGROUND
+R0450,2027-03-26T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0330,background-0330.example,contact-0330@example.invalid,BACKGROUND
+R0011,2026-01-11T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-002-05,site-002.example,contact-002-05@example.invalid,CLUSTER-002
+R0381,2027-01-16T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0261,background-0261.example,contact-0261@example.invalid,BACKGROUND
+R0104,2026-04-14T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-018-SHARED,site-018-02.example,contact-018@example.invalid,CLUSTER-018
+R0082,2026-03-23T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-014-04,site-014.example,contact-014@example.invalid,CLUSTER-014
+R0039,2026-02-08T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-007-SHARED,site-007.example,contact-007@example.invalid,CLUSTER-007
+R0315,2026-11-11T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0195,background-0195.example,contact-0195@example.invalid,BACKGROUND
+R0168,2026-06-17T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0048,background-0048.example,contact-0048@example.invalid,BACKGROUND
+R0470,2027-04-15T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0350,background-0350.example,contact-0350@example.invalid,BACKGROUND
+R0297,2026-10-24T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0177,background-0177.example,contact-0177@example.invalid,BACKGROUND
+R0475,2027-04-20T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0355,background-0355.example,contact-0355@example.invalid,BACKGROUND
+R0199,2026-07-18T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0079,background-0079.example,contact-0079@example.invalid,BACKGROUND
+R0298,2026-10-25T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0178,background-0178.example,contact-0178@example.invalid,BACKGROUND
+R0417,2027-02-21T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0297,background-0297.example,contact-0297@example.invalid,BACKGROUND
+R0147,2026-05-27T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0027,background-0027.example,contact-0027@example.invalid,BACKGROUND
+R0393,2027-01-28T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0273,background-0273.example,contact-0273@example.invalid,BACKGROUND
+R0148,2026-05-28T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0028,background-0028.example,contact-0028@example.invalid,BACKGROUND
+R0448,2027-03-24T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0328,background-0328.example,contact-0328@example.invalid,BACKGROUND
+R0288,2026-10-15T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0168,background-0168.example,contact-0168@example.invalid,BACKGROUND
+R0124,2026-05-04T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0004,background-0004.example,contact-0004@example.invalid,BACKGROUND
+R0369,2027-01-04T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0249,background-0249.example,contact-0249@example.invalid,BACKGROUND
+R0097,2026-04-07T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-017-SHARED,site-017-01.example,contact-017-01@example.invalid,CLUSTER-017
+R0144,2026-05-24T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0024,background-0024.example,contact-0024@example.invalid,BACKGROUND
+R0240,2026-08-28T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0120,background-0120.example,contact-0120@example.invalid,BACKGROUND
+R0443,2027-03-19T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0323,background-0323.example,contact-0323@example.invalid,BACKGROUND
+R0098,2026-04-08T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-017-SHARED,site-017-02.example,contact-017@example.invalid,CLUSTER-017
+R0408,2027-02-12T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0288,background-0288.example,contact-0288@example.invalid,BACKGROUND
+R0123,2026-05-03T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0003,background-0003.example,contact-0003@example.invalid,BACKGROUND
+R0184,2026-07-03T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0064,background-0064.example,contact-0064@example.invalid,BACKGROUND
+R0203,2026-07-22T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0083,background-0083.example,contact-0083@example.invalid,BACKGROUND
+R0247,2026-09-04T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0127,background-0127.example,contact-0127@example.invalid,BACKGROUND
+R0306,2026-11-02T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0186,background-0186.example,contact-0186@example.invalid,BACKGROUND
+R0299,2026-10-26T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0179,background-0179.example,contact-0179@example.invalid,BACKGROUND
+R0352,2026-12-18T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0232,background-0232.example,contact-0232@example.invalid,BACKGROUND
+R0387,2027-01-22T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0267,background-0267.example,contact-0267@example.invalid,BACKGROUND
+R0396,2027-01-31T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0276,background-0276.example,contact-0276@example.invalid,BACKGROUND
+R0285,2026-10-12T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0165,background-0165.example,contact-0165@example.invalid,BACKGROUND
+R0126,2026-05-06T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0006,background-0006.example,contact-0006@example.invalid,BACKGROUND
+R0303,2026-10-30T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0183,background-0183.example,contact-0183@example.invalid,BACKGROUND
+R0224,2026-08-12T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0104,background-0104.example,contact-0104@example.invalid,BACKGROUND
+R0419,2027-02-23T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0299,background-0299.example,contact-0299@example.invalid,BACKGROUND
+R0220,2026-08-08T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0100,background-0100.example,contact-0100@example.invalid,BACKGROUND
+R0130,2026-05-10T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0010,background-0010.example,contact-0010@example.invalid,BACKGROUND
+R0421,2027-02-25T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0301,background-0301.example,contact-0301@example.invalid,BACKGROUND
+R0290,2026-10-17T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0170,background-0170.example,contact-0170@example.invalid,BACKGROUND
+R0445,2027-03-21T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0325,background-0325.example,contact-0325@example.invalid,BACKGROUND
+R0377,2027-01-12T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0257,background-0257.example,contact-0257@example.invalid,BACKGROUND
+R0292,2026-10-19T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0172,background-0172.example,contact-0172@example.invalid,BACKGROUND
+R0356,2026-12-22T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0236,background-0236.example,contact-0236@example.invalid,BACKGROUND
+R0295,2026-10-22T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0175,background-0175.example,contact-0175@example.invalid,BACKGROUND
+R0397,2027-02-01T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0277,background-0277.example,contact-0277@example.invalid,BACKGROUND
+R0341,2026-12-07T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0221,background-0221.example,contact-0221@example.invalid,BACKGROUND
+R0113,2026-04-23T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-019-05,site-019.example,contact-019-05@example.invalid,CLUSTER-019
+R0180,2026-06-29T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0060,background-0060.example,contact-0060@example.invalid,BACKGROUND
+R0308,2026-11-04T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0188,background-0188.example,contact-0188@example.invalid,BACKGROUND
+R0433,2027-03-09T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0313,background-0313.example,contact-0313@example.invalid,BACKGROUND
+R0488,2027-05-03T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0368,background-0368.example,contact-0368@example.invalid,BACKGROUND
+R0482,2027-04-27T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0362,background-0362.example,contact-0362@example.invalid,BACKGROUND
+R0423,2027-02-27T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0303,background-0303.example,contact-0303@example.invalid,BACKGROUND
+R0234,2026-08-22T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0114,background-0114.example,contact-0114@example.invalid,BACKGROUND
+R0312,2026-11-08T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0192,background-0192.example,contact-0192@example.invalid,BACKGROUND
+R0165,2026-06-14T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0045,background-0045.example,contact-0045@example.invalid,BACKGROUND
+R0137,2026-05-17T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0017,background-0017.example,contact-0017@example.invalid,BACKGROUND
+R0198,2026-07-17T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0078,background-0078.example,contact-0078@example.invalid,BACKGROUND
+R0259,2026-09-16T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0139,background-0139.example,contact-0139@example.invalid,BACKGROUND
+R0233,2026-08-21T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0113,background-0113.example,contact-0113@example.invalid,BACKGROUND
+R0116,2026-04-26T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-020-SHARED,site-020-02.example,contact-020@example.invalid,CLUSTER-020
+R0121,2026-05-01T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0001,background-0001.example,contact-0001@example.invalid,BACKGROUND
+R0350,2026-12-16T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0230,background-0230.example,contact-0230@example.invalid,BACKGROUND
+R0225,2026-08-13T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0105,background-0105.example,contact-0105@example.invalid,BACKGROUND
+R0403,2027-02-07T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0283,background-0283.example,contact-0283@example.invalid,BACKGROUND
+R0398,2027-02-02T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0278,background-0278.example,contact-0278@example.invalid,BACKGROUND
+R0128,2026-05-08T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0008,background-0008.example,contact-0008@example.invalid,BACKGROUND
+R0286,2026-10-13T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0166,background-0166.example,contact-0166@example.invalid,BACKGROUND
+R0412,2027-02-16T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0292,background-0292.example,contact-0292@example.invalid,BACKGROUND
+R0108,2026-04-18T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-018-06,site-018.example,contact-018-06@example.invalid,CLUSTER-018
+R0371,2027-01-06T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0251,background-0251.example,contact-0251@example.invalid,BACKGROUND
+R0326,2026-11-22T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0206,background-0206.example,contact-0206@example.invalid,BACKGROUND
+R0134,2026-05-14T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0014,background-0014.example,contact-0014@example.invalid,BACKGROUND
+R0453,2027-03-29T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0333,background-0333.example,contact-0333@example.invalid,BACKGROUND
+R0045,2026-02-14T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-008-SHARED,site-008.example,contact-008@example.invalid,CLUSTER-008
+R0461,2027-04-06T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0341,background-0341.example,contact-0341@example.invalid,BACKGROUND
+R0066,2026-03-07T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-011-06,site-011.example,contact-011-06@example.invalid,CLUSTER-011
+R0284,2026-10-11T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0164,background-0164.example,contact-0164@example.invalid,BACKGROUND
+R0086,2026-03-27T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-015-SHARED,site-015-02.example,contact-015@example.invalid,CLUSTER-015
+R0243,2026-08-31T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0123,background-0123.example,contact-0123@example.invalid,BACKGROUND
+R0187,2026-07-06T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0067,background-0067.example,contact-0067@example.invalid,BACKGROUND
+R0384,2027-01-19T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0264,background-0264.example,contact-0264@example.invalid,BACKGROUND
+R0160,2026-06-09T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0040,background-0040.example,contact-0040@example.invalid,BACKGROUND
+R0013,2026-01-13T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-003-SHARED,site-003-01.example,contact-003-01@example.invalid,CLUSTER-003
+R0036,2026-02-05T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-006-06,site-006.example,contact-006-06@example.invalid,CLUSTER-006
+R0029,2026-01-29T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-005-05,site-005.example,contact-005-05@example.invalid,CLUSTER-005
+R0171,2026-06-20T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0051,background-0051.example,contact-0051@example.invalid,BACKGROUND
+R0143,2026-05-23T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0023,background-0023.example,contact-0023@example.invalid,BACKGROUND
+R0399,2027-02-03T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0279,background-0279.example,contact-0279@example.invalid,BACKGROUND
+R0343,2026-12-09T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0223,background-0223.example,contact-0223@example.invalid,BACKGROUND
+R0222,2026-08-10T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0102,background-0102.example,contact-0102@example.invalid,BACKGROUND
+R0096,2026-04-06T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-016-06,site-016.example,contact-016-06@example.invalid,CLUSTER-016
+R0052,2026-02-21T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-009-04,site-009.example,contact-009@example.invalid,CLUSTER-009
+R0241,2026-08-29T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0121,background-0121.example,contact-0121@example.invalid,BACKGROUND
+R0485,2027-04-30T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0365,background-0365.example,contact-0365@example.invalid,BACKGROUND
+R0379,2027-01-14T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0259,background-0259.example,contact-0259@example.invalid,BACKGROUND
+R0179,2026-06-28T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0059,background-0059.example,contact-0059@example.invalid,BACKGROUND
+R0042,2026-02-11T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-007-06,site-007.example,contact-007-06@example.invalid,CLUSTER-007
+R0499,2027-05-14T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0379,background-0379.example,contact-0379@example.invalid,BACKGROUND
+R0422,2027-02-26T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0302,background-0302.example,contact-0302@example.invalid,BACKGROUND
+R0207,2026-07-26T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0087,background-0087.example,contact-0087@example.invalid,BACKGROUND
+R0283,2026-10-10T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0163,background-0163.example,contact-0163@example.invalid,BACKGROUND
+R0255,2026-09-12T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0135,background-0135.example,contact-0135@example.invalid,BACKGROUND
+R0413,2027-02-17T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0293,background-0293.example,contact-0293@example.invalid,BACKGROUND
+R0005,2026-01-05T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-001-05,site-001.example,contact-001-05@example.invalid,CLUSTER-001
+R0257,2026-09-14T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0137,background-0137.example,contact-0137@example.invalid,BACKGROUND
+R0449,2027-03-25T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0329,background-0329.example,contact-0329@example.invalid,BACKGROUND
+R0101,2026-04-11T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-017-05,site-017.example,contact-017-05@example.invalid,CLUSTER-017
+R0227,2026-08-15T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0107,background-0107.example,contact-0107@example.invalid,BACKGROUND
+R0430,2027-03-06T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0310,background-0310.example,contact-0310@example.invalid,BACKGROUND
+R0214,2026-08-02T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0094,background-0094.example,contact-0094@example.invalid,BACKGROUND
+R0172,2026-06-21T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0052,background-0052.example,contact-0052@example.invalid,BACKGROUND
+R0099,2026-04-09T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-017-SHARED,site-017.example,contact-017@example.invalid,CLUSTER-017
+R0293,2026-10-20T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0173,background-0173.example,contact-0173@example.invalid,BACKGROUND
+R0216,2026-08-04T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0096,background-0096.example,contact-0096@example.invalid,BACKGROUND
+R0062,2026-03-03T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-011-SHARED,site-011-02.example,contact-011@example.invalid,CLUSTER-011
+R0048,2026-02-17T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-008-06,site-008.example,contact-008-06@example.invalid,CLUSTER-008
+R0033,2026-02-02T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-006-SHARED,site-006.example,contact-006@example.invalid,CLUSTER-006
+R0268,2026-09-25T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0148,background-0148.example,contact-0148@example.invalid,BACKGROUND
+R0328,2026-11-24T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0208,background-0208.example,contact-0208@example.invalid,BACKGROUND
+R0201,2026-07-20T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0081,background-0081.example,contact-0081@example.invalid,BACKGROUND
+R0447,2027-03-23T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0327,background-0327.example,contact-0327@example.invalid,BACKGROUND
+R0028,2026-01-28T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-005-04,site-005.example,contact-005@example.invalid,CLUSTER-005
+R0425,2027-03-01T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0305,background-0305.example,contact-0305@example.invalid,BACKGROUND
+R0231,2026-08-19T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0111,background-0111.example,contact-0111@example.invalid,BACKGROUND
+R0261,2026-09-18T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0141,background-0141.example,contact-0141@example.invalid,BACKGROUND
+R0289,2026-10-16T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0169,background-0169.example,contact-0169@example.invalid,BACKGROUND
+R0163,2026-06-12T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0043,background-0043.example,contact-0043@example.invalid,BACKGROUND
+R0426,2027-03-02T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0306,background-0306.example,contact-0306@example.invalid,BACKGROUND
+R0139,2026-05-19T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0019,background-0019.example,contact-0019@example.invalid,BACKGROUND
+R0063,2026-03-04T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-011-SHARED,site-011.example,contact-011@example.invalid,CLUSTER-011
+R0136,2026-05-16T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0016,background-0016.example,contact-0016@example.invalid,BACKGROUND
+R0129,2026-05-09T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0009,background-0009.example,contact-0009@example.invalid,BACKGROUND
+R0477,2027-04-22T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0357,background-0357.example,contact-0357@example.invalid,BACKGROUND
+R0009,2026-01-09T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-002-SHARED,site-002.example,contact-002@example.invalid,CLUSTER-002
+R0327,2026-11-23T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0207,background-0207.example,contact-0207@example.invalid,BACKGROUND
+R0464,2027-04-09T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0344,background-0344.example,contact-0344@example.invalid,BACKGROUND
+R0065,2026-03-06T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-011-05,site-011.example,contact-011-05@example.invalid,CLUSTER-011
+R0301,2026-10-28T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0181,background-0181.example,contact-0181@example.invalid,BACKGROUND
+R0015,2026-01-15T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-003-SHARED,site-003.example,contact-003@example.invalid,CLUSTER-003
+R0157,2026-06-06T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0037,background-0037.example,contact-0037@example.invalid,BACKGROUND
+R0041,2026-02-10T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-007-05,site-007.example,contact-007-05@example.invalid,CLUSTER-007
+R0380,2027-01-15T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0260,background-0260.example,contact-0260@example.invalid,BACKGROUND
+R0469,2027-04-14T00:00:00,Impersonation,A fictional report describes a potentially misleading website.,PHONE-BG-0349,background-0349.example,contact-0349@example.invalid,BACKGROUND
+R0404,2027-02-08T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0284,background-0284.example,contact-0284@example.invalid,BACKGROUND
+R0217,2026-08-05T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0097,background-0097.example,contact-0097@example.invalid,BACKGROUND
+R0280,2026-10-07T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0160,background-0160.example,contact-0160@example.invalid,BACKGROUND
+R0435,2027-03-11T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0315,background-0315.example,contact-0315@example.invalid,BACKGROUND
+R0431,2027-03-07T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0311,background-0311.example,contact-0311@example.invalid,BACKGROUND
+R0338,2026-12-04T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0218,background-0218.example,contact-0218@example.invalid,BACKGROUND
+R0237,2026-08-25T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0117,background-0117.example,contact-0117@example.invalid,BACKGROUND
+R0208,2026-07-27T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0088,background-0088.example,contact-0088@example.invalid,BACKGROUND
+R0213,2026-08-01T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0093,background-0093.example,contact-0093@example.invalid,BACKGROUND
+R0296,2026-10-23T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0176,background-0176.example,contact-0176@example.invalid,BACKGROUND
+R0458,2027-04-03T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0338,background-0338.example,contact-0338@example.invalid,BACKGROUND
+R0252,2026-09-09T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0132,background-0132.example,contact-0132@example.invalid,BACKGROUND
+R0489,2027-05-04T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0369,background-0369.example,contact-0369@example.invalid,BACKGROUND
+R0487,2027-05-02T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0367,background-0367.example,contact-0367@example.invalid,BACKGROUND
+R0304,2026-10-31T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0184,background-0184.example,contact-0184@example.invalid,BACKGROUND
+R0351,2026-12-17T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0231,background-0231.example,contact-0231@example.invalid,BACKGROUND
+R0270,2026-09-27T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-BG-0150,background-0150.example,contact-0150@example.invalid,BACKGROUND
+R0202,2026-07-21T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0082,background-0082.example,contact-0082@example.invalid,BACKGROUND
+R0162,2026-06-11T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0042,background-0042.example,contact-0042@example.invalid,BACKGROUND
+R0044,2026-02-13T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-008-SHARED,site-008-02.example,contact-008@example.invalid,CLUSTER-008
+R0218,2026-08-06T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0098,background-0098.example,contact-0098@example.invalid,BACKGROUND
+R0402,2027-02-06T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0282,background-0282.example,contact-0282@example.invalid,BACKGROUND
+R0191,2026-07-10T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0071,background-0071.example,contact-0071@example.invalid,BACKGROUND
+R0310,2026-11-06T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0190,background-0190.example,contact-0190@example.invalid,BACKGROUND
+R0260,2026-09-17T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0140,background-0140.example,contact-0140@example.invalid,BACKGROUND
+R0106,2026-04-16T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-018-04,site-018.example,contact-018@example.invalid,CLUSTER-018
+R0054,2026-02-23T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-009-06,site-009.example,contact-009-06@example.invalid,CLUSTER-009
+R0390,2027-01-25T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0270,background-0270.example,contact-0270@example.invalid,BACKGROUND
+R0002,2026-01-02T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-001-SHARED,site-001-02.example,contact-001@example.invalid,CLUSTER-001
+R0442,2027-03-18T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0322,background-0322.example,contact-0322@example.invalid,BACKGROUND
+R0483,2027-04-28T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0363,background-0363.example,contact-0363@example.invalid,BACKGROUND
+R0050,2026-02-19T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-009-SHARED,site-009-02.example,contact-009@example.invalid,CLUSTER-009
+R0420,2027-02-24T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0300,background-0300.example,contact-0300@example.invalid,BACKGROUND
+R0081,2026-03-22T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-014-SHARED,site-014.example,contact-014@example.invalid,CLUSTER-014
+R0206,2026-07-25T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0086,background-0086.example,contact-0086@example.invalid,BACKGROUND
+R0035,2026-02-04T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-006-05,site-006.example,contact-006-05@example.invalid,CLUSTER-006
+R0264,2026-09-21T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0144,background-0144.example,contact-0144@example.invalid,BACKGROUND
+R0428,2027-03-04T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0308,background-0308.example,contact-0308@example.invalid,BACKGROUND
+R0367,2027-01-02T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0247,background-0247.example,contact-0247@example.invalid,BACKGROUND
+R0092,2026-04-02T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-016-SHARED,site-016-02.example,contact-016@example.invalid,CLUSTER-016
+R0340,2026-12-06T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0220,background-0220.example,contact-0220@example.invalid,BACKGROUND
+R0474,2027-04-19T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0354,background-0354.example,contact-0354@example.invalid,BACKGROUND
+R0053,2026-02-22T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-009-05,site-009.example,contact-009-05@example.invalid,CLUSTER-009
+R0346,2026-12-12T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0226,background-0226.example,contact-0226@example.invalid,BACKGROUND
+R0265,2026-09-22T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0145,background-0145.example,contact-0145@example.invalid,BACKGROUND
+R0242,2026-08-30T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0122,background-0122.example,contact-0122@example.invalid,BACKGROUND
+R0014,2026-01-14T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-003-SHARED,site-003-02.example,contact-003@example.invalid,CLUSTER-003
+R0316,2026-11-12T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0196,background-0196.example,contact-0196@example.invalid,BACKGROUND
+R0089,2026-03-30T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-015-05,site-015.example,contact-015-05@example.invalid,CLUSTER-015
+R0388,2027-01-23T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-BG-0268,background-0268.example,contact-0268@example.invalid,BACKGROUND
+R0274,2026-10-01T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0154,background-0154.example,contact-0154@example.invalid,BACKGROUND
+R0167,2026-06-16T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0047,background-0047.example,contact-0047@example.invalid,BACKGROUND
+R0329,2026-11-25T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-BG-0209,background-0209.example,contact-0209@example.invalid,BACKGROUND
+R0493,2027-05-08T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0373,background-0373.example,contact-0373@example.invalid,BACKGROUND
+R0135,2026-05-15T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0015,background-0015.example,contact-0015@example.invalid,BACKGROUND
+R0307,2026-11-03T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0187,background-0187.example,contact-0187@example.invalid,BACKGROUND
+R0481,2027-04-26T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0361,background-0361.example,contact-0361@example.invalid,BACKGROUND
+R0320,2026-11-16T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0200,background-0200.example,contact-0200@example.invalid,BACKGROUND
+R0244,2026-09-01T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0124,background-0124.example,contact-0124@example.invalid,BACKGROUND
+R0055,2026-02-24T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-010-SHARED,site-010-01.example,contact-010-01@example.invalid,CLUSTER-010
+R0364,2026-12-30T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-BG-0244,background-0244.example,contact-0244@example.invalid,BACKGROUND
+R0051,2026-02-20T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-009-SHARED,site-009.example,contact-009@example.invalid,CLUSTER-009
+R0457,2027-04-02T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0337,background-0337.example,contact-0337@example.invalid,BACKGROUND
+R0175,2026-06-24T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0055,background-0055.example,contact-0055@example.invalid,BACKGROUND
+R0446,2027-03-22T00:00:00,Unusual message,A fictional report describes a possible impersonation attempt.,PHONE-BG-0326,background-0326.example,contact-0326@example.invalid,BACKGROUND
+R0190,2026-07-09T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0070,background-0070.example,contact-0070@example.invalid,BACKGROUND
+R0497,2027-05-12T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-BG-0377,background-0377.example,contact-0377@example.invalid,BACKGROUND
+R0188,2026-07-07T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0068,background-0068.example,contact-0068@example.invalid,BACKGROUND
+R0170,2026-06-19T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0050,background-0050.example,contact-0050@example.invalid,BACKGROUND
+R0059,2026-02-28T00:00:00,Account alert,A fictional report describes a suspicious account notification.,PHONE-010-05,site-010.example,contact-010-05@example.invalid,CLUSTER-010
+R0049,2026-02-18T00:00:00,Suspicious link,A fictional report describes a suspicious account notification.,PHONE-009-SHARED,site-009-01.example,contact-009-01@example.invalid,CLUSTER-009
+R0345,2026-12-11T00:00:00,Payment request,A fictional report describes a possible impersonation attempt.,PHONE-BG-0225,background-0225.example,contact-0225@example.invalid,BACKGROUND
+R0236,2026-08-24T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0116,background-0116.example,contact-0116@example.invalid,BACKGROUND
+R0253,2026-09-10T00:00:00,Unusual message,A fictional report describes a potentially misleading website.,PHONE-BG-0133,background-0133.example,contact-0133@example.invalid,BACKGROUND
+R0022,2026-01-22T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-004-04,site-004.example,contact-004@example.invalid,CLUSTER-004
+R0314,2026-11-10T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0194,background-0194.example,contact-0194@example.invalid,BACKGROUND
+R0460,2027-04-05T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0340,background-0340.example,contact-0340@example.invalid,BACKGROUND
+R0161,2026-06-10T00:00:00,Payment request,A fictional report describes an unexpected message.,PHONE-BG-0041,background-0041.example,contact-0041@example.invalid,BACKGROUND
+R0277,2026-10-04T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0157,background-0157.example,contact-0157@example.invalid,BACKGROUND
+R0444,2027-03-20T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0324,background-0324.example,contact-0324@example.invalid,BACKGROUND
+R0192,2026-07-11T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-BG-0072,background-0072.example,contact-0072@example.invalid,BACKGROUND
+R0386,2027-01-21T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0266,background-0266.example,contact-0266@example.invalid,BACKGROUND
+R0294,2026-10-21T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0174,background-0174.example,contact-0174@example.invalid,BACKGROUND
+R0414,2027-02-18T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0294,background-0294.example,contact-0294@example.invalid,BACKGROUND
+R0344,2026-12-10T00:00:00,Suspicious link,A fictional report describes a potentially misleading website.,PHONE-BG-0224,background-0224.example,contact-0224@example.invalid,BACKGROUND
+R0258,2026-09-15T00:00:00,Account alert,A fictional report describes an unexpected message.,PHONE-BG-0138,background-0138.example,contact-0138@example.invalid,BACKGROUND
+R0309,2026-11-05T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0189,background-0189.example,contact-0189@example.invalid,BACKGROUND
+R0150,2026-05-30T00:00:00,Account alert,A fictional report describes a possible impersonation attempt.,PHONE-BG-0030,background-0030.example,contact-0030@example.invalid,BACKGROUND
+R0131,2026-05-11T00:00:00,Payment request,A fictional report describes a suspicious account notification.,PHONE-BG-0011,background-0011.example,contact-0011@example.invalid,BACKGROUND
+R0152,2026-06-01T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0032,background-0032.example,contact-0032@example.invalid,BACKGROUND
+R0360,2026-12-26T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0240,background-0240.example,contact-0240@example.invalid,BACKGROUND
+R0100,2026-04-10T00:00:00,Account alert,A fictional report describes an unexpected payment request.,PHONE-017-04,site-017.example,contact-017@example.invalid,CLUSTER-017
+R0373,2027-01-08T00:00:00,Suspicious link,A fictional report describes an unexpected message.,PHONE-BG-0253,background-0253.example,contact-0253@example.invalid,BACKGROUND
+R0088,2026-03-29T00:00:00,Account alert,A fictional report describes a potentially misleading website.,PHONE-015-04,site-015.example,contact-015@example.invalid,CLUSTER-015
+R0459,2027-04-04T00:00:00,Unusual message,A fictional report describes an unexpected message.,PHONE-BG-0339,background-0339.example,contact-0339@example.invalid,BACKGROUND
+R0331,2026-11-27T00:00:00,Impersonation,A fictional report describes a suspicious account notification.,PHONE-BG-0211,background-0211.example,contact-0211@example.invalid,BACKGROUND
+R0215,2026-08-03T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-BG-0095,background-0095.example,contact-0095@example.invalid,BACKGROUND
+R0467,2027-04-12T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-BG-0347,background-0347.example,contact-0347@example.invalid,BACKGROUND
+R0122,2026-05-02T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0002,background-0002.example,contact-0002@example.invalid,BACKGROUND
+R0500,2027-05-15T00:00:00,Impersonation,A fictional report describes an unexpected payment request.,PHONE-BG-0380,background-0380.example,contact-0380@example.invalid,BACKGROUND
+R0021,2026-01-21T00:00:00,Impersonation,A fictional report describes a possible impersonation attempt.,PHONE-004-SHARED,site-004.example,contact-004@example.invalid,CLUSTER-004
+R0189,2026-07-08T00:00:00,Payment request,A fictional report describes an unexpected payment request.,PHONE-BG-0069,background-0069.example,contact-0069@example.invalid,BACKGROUND
+R0072,2026-03-13T00:00:00,Unusual message,A fictional report describes an unexpected payment request.,PHONE-012-06,site-012.example,contact-012-06@example.invalid,CLUSTER-012
+R0107,2026-04-17T00:00:00,Unusual message,A fictional report describes a suspicious account notification.,PHONE-018-05,site-018.example,contact-018-05@example.invalid,CLUSTER-018
+R0271,2026-09-28T00:00:00,Suspicious link,A fictional report describes a possible impersonation attempt.,PHONE-BG-0151,background-0151.example,contact-0151@example.invalid,BACKGROUND
+R0349,2026-12-15T00:00:00,Impersonation,A fictional report describes an unexpected message.,PHONE-BG-0229,background-0229.example,contact-0229@example.invalid,BACKGROUND
+R0436,2027-03-12T00:00:00,Suspicious link,A fictional report describes an unexpected payment request.,PHONE-BG-0316,background-0316.example,contact-0316@example.invalid,BACKGROUND
+R0103,2026-04-13T00:00:00,Payment request,A fictional report describes a potentially misleading website.,PHONE-018-SHARED,site-018-01.example,contact-018-01@example.invalid,CLUSTER-018
